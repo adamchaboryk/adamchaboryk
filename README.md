@@ -16,5 +16,5 @@ I founded and lead the development of [Sa11y,](https://sa11y.netlify.app) an ope
 
 ### Other stuff I've made
 - [Gifa11y](https://github.com/adamchaboryk/gifa11y), a script that automagically adds a pause button to GIFs.
-- [Contrast Report])(https://contrast.report), a simple contrast checking tool, but the very first to leverage the new Document Picture-in-Picture API!
+- [Contrast Report](https://contrast.report), a simple contrast checking tool, but the very first to leverage the new Document Picture-in-Picture API!
 - [Contrast checking Google Sheet](https://gist.github.com/adamchaboryk/0dd2529ea9b8480f21905aaf11d1b5a5) that can calculate contrast ratios for multiple hexcodes at a time.
