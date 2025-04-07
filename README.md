@@ -15,5 +15,6 @@ I founded and lead the development of [Sa11y,](https://sa11y.netlify.app) an ope
 [![Over several hundred thousand requests a month on jsDelivr](https://data.jsdelivr.com/v1/package/gh/ryersondmp/sa11y/badge?style=rounded)](https://www.jsdelivr.com/package/gh/ryersondmp/sa11y) [![GitHub repo](https://img.shields.io/badge/GitHub-Sa11y-blue)](https://github.com/ryersondmp/sa11y) [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://github.com/ryersondmp/sa11y/blob/master/LICENSE.md) [![npm version](https://badge.fury.io/js/sa11y.svg)](https://www.npmjs.com/package/sa11y)
 
 ### Other stuff I've made
-- [Gifa11y](https://github.com/adamchaboryk/gifa11y), a script that automagically adds a pause button to GIFs. 
+- [Gifa11y](https://github.com/adamchaboryk/gifa11y), a script that automagically adds a pause button to GIFs.
+- [Contrast Report])(https://contrast.report), a simple contrast checking tool, but the very first to leverage the new Document Picture-in-Picture API!
 - [Contrast checking Google Sheet](https://gist.github.com/adamchaboryk/0dd2529ea9b8480f21905aaf11d1b5a5) that can calculate contrast ratios for multiple hexcodes at a time.
